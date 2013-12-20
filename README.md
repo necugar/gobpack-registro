@@ -1,4 +1,4 @@
-#[sRegistro](https://github.com/necugar/iGob-socket-registro)
+#[gobpack-registro](https://github.com/necugar/iGob-socket-registro)
 
 ####Un sistema de gestión de acceso y cuenta básica construida en Node.js, con las siguientes características:
 

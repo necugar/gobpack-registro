@@ -1,6 +1,6 @@
 {
-  "name": "gobpack - registro",
-  "version": "1.3.2",
+  "name": "gobpack-registro",
+  "version": "0.5",
   "description": "Registrato Social de gobpack framework Sockets & MongoDb",
   "author": {
     "name": "necugar",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/necugar/iGob-socket-registro"
+    "url": "git@github.com:necugar/gobpack-registro.git"
   },
   "private": true,
   "dependencies": {
